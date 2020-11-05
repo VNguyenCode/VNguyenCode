@@ -7,6 +7,7 @@ Technologies I'm currently working with:
 <div>
 <img align="left" alt="HTML5" width="30px" src="imgassets/Javscript Logo.png" />
 <img align="left" alt="HTML5" width="30px" src="imgassets/1_mn6bOs7s6Qbao15PMNRyOA.png" />
+<img align="left" alt="HTML5" width="30px" src="imgassets/Node-JS-logo-vector-01.svg" />
 
 
 <div>
