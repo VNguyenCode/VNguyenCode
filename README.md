@@ -11,8 +11,7 @@ I'm a **software engineer** who is passionate about making open-source more acce
 
 ## Technologies I'm currently working with:
 
-<img align="center" alt="Javascript" width="40px" src="imgassets/Javscript Logo.png" /> <img align="center" alt="Typescript" width="40px" src="imgassets/Typescript.png" /> <img align="center" alt="React" width="40px" src="imgassets/Why-React-JS-is-a-popular-choice-of-web-development-in-2020.svg" /><img align="center" alt="GraphQL" width="40px" src="imgassets/GraphQL_Logo.svg.png" /><img align="center" alt="Node" width="40px" src="imgassets/nodejs-icon-17.jpg" /><img align="center" alt="Jest" width="40px" src="imgassets/jest.png" /><img align="center" alt="Jest" width="40px" src="imgassets/jest.png" />
-<img align="center" alt="Webpack" width="40px" src="imgassets/icon-square-big (1).png" />
+<img align="center" alt="Javascript" width="40px" src="imgassets/Javscript Logo.png" /> <img align="center" alt="Typescript" width="40px" src="imgassets/Typescript.png" /> <img align="center" alt="React" width="40px" src="imgassets/Why-React-JS-is-a-popular-choice-of-web-development-in-2020.svg" /><img align="center" alt="GraphQL" width="40px" src="imgassets/GraphQL_Logo.svg.png" /><img align="center" alt="Node" width="40px" src="imgassets/nodejs-icon-17.jpg" /><img align="center" alt="Jest" width="40px" src="imgassets/jest.png" /><img align="center" alt="Webpack" width="60px" src="imgassets/icon-square-big (1).png" />
 
 ## Find me around the web 🌎:
 - Publishing in public on **Medium Better Programming** - <a href="https://medium.com/better-programming/recoiljs-the-future-of-react-state-management-ffb1345833b6">RecoilJS: The Future of React State Management?</a> or               
