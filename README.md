@@ -14,6 +14,6 @@ I'm a **software engineer** who is passionate about making open-source more acce
 <img align="center" alt="Javascript" width="40px" src="imgassets/Javscript Logo.png" /> <img align="center" alt="Typescript" width="40px" src="imgassets/Typescript.png" /> <img align="center" alt="React" width="40px" src="imgassets/kisspng-react-javascript-responsive-web-design-github-angu-github-5accac24ced243.4761515415233628528472.jpg" />
 
 ## Find me around the web 🌎:
-- Publishing in public on **Medium Better Programming**<a href="https://medium.com/better-programming/recoiljs-the-future-of-react-state-management-ffb1345833b6">RecoilJS: The Future of React State Management?</a> or               
+- Publishing in public on **Medium Better Programming** <a href="https://medium.com/better-programming/recoiljs-the-future-of-react-state-management-ffb1345833b6">RecoilJS: The Future of React State Management?</a> or               
  <a href="https://medium.com/better-programming/time-traveling-state-with-reactime-6-0-53fdc3ae2a20">Time-Travel with Reactime</a> 🕔
 - Sharing updates on <a href="https://www.linkedin.com/in/vnguyenucla/">LinkedIn</a> 💼
