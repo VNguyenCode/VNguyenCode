@@ -7,7 +7,7 @@ I'm a **software engineer** who is passionate about making open-source more acce
 
 <b> Actively looking into </b> [Vue.js](https://vuejs.org/), [Go](https://golang.org/) and [Next.js](https://nextjs.org/) as an alternative SSR static site framework.
 
-<b>Always interested in</b> geeking out about new tech to make for more extensible, maintainable projects and contributions. <br />
+<b>Always interested in</b> geeking out about new tech and how to make it more extensible and maintainable for projects and contributions. <br />
 
 ## Technologies I'm currently working with:
 
