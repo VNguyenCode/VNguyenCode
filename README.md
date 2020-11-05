@@ -6,6 +6,7 @@ Technologies I'm currently working with:
 
 <div>
 <img align="left" alt="HTML5" width="30px" src="imgassets/Javscript Logo.png" />
+<img align="left" alt="HTML5" width="30px" src="imgassets/imgbin-web-development-html-css3-the-ohana-code-logo-2cpaper-projection-shaded-1660937-html-dropdown-js-ewrW26TZwgRGD4kXJk4RaZMJE (1).jpg" />
 <div>
 
 include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community. My interest in the React ecosystem led me to launch <a href="https://www.meetup.com/React-Ladies/">React Ladies</a>, a community for women and non-binary ReactJS developers.
