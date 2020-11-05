@@ -9,7 +9,8 @@ I'm a **software engineer** who is passionate about making open-source more acce
 
 <b>Always interested in</b> geeking out about new tech to make for more extensible, maintainable projects and contributions. <br />
 
-Technologies I'm currently working with:
+## Technologies I'm currently working with:
+
 <img align="center" alt="Javascript" width="40px" src="imgassets/Javscript Logo.png" />
 
 ## Find me around the web 🌎:
