@@ -12,6 +12,8 @@ I'm a **software engineer** who is passionate about making open-source more acce
 ## Technologies I'm currently working with:
 
 <img align="center" alt="Javascript" width="40px" src="imgassets/Javscript Logo.png" />
+<img align="center" alt="Typescript" width="40px" src="imgassets/Typescript.png" />
+<img align="center" alt="React" width="40px" src="imgassets/Why-React-JS-is-a-popular-choice-of-web-development-in-2020.png" />
 
 ## Find me around the web 🌎:
 - Publishing in public on Medium Better Programming <a href="https://medium.com/better-programming/recoiljs-the-future-of-react-state-management-ffb1345833b6">RecoilJS: The Future of React State Management?</a> or <a href="https://medium.com/better-programming/time-traveling-state-with-reactime-6-0-53fdc3ae2a20">Time-Travel with Reactime</a> 🕔
