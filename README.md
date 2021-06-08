@@ -5,7 +5,7 @@ I'm a **software engineer** who is passionate about making open-source more acce
 
 <b>Recently worked on </b>creating a better developer experience with [Reactime](https://github.com/open-source-labs/reactime) (a  time-travel React State Debugging Tool). 
 
-<b> Actively looking into </b> [Vue.js](https://vuejs.org/), [Go](https://golang.org/) and [Next.js](https://nextjs.org/) as an alternative SSR static site framework.
+<b> Actively looking into </b> [Go](https://golang.org/) and [Next.js](https://nextjs.org/) as an alternative SSR static site framework.
 
 <b>Always interested in</b> geeking out about new tech and how to make it more extensible and maintainable for projects and contributions. <br />
 
